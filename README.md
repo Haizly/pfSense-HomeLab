@@ -1,4 +1,4 @@
-# pfSense Home Lab — Attack, Detect, Defend
+# pfSense Home Lab - Attack, Detect, Defend
 
 A hands-on cybersecurity home lab built as a mentor-assigned co-op training project. The goal: build a small segmented network, generate realistic attacker traffic, and test how well different firewall/IDS detection mechanisms actually catch that traffic — including where they fail, and why.
 
